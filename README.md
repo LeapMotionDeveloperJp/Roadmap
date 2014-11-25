@@ -57,6 +57,10 @@ Roadmap
 - 出力してみよう
 - じゃんけんゲームをつくってみよう
 
-## つくってみる企画
+## つくってみたい・やってみたい
 - LeapMotionで競馬レース
 - LeapMotion + MindStorm EV3
+- Hueを動かす
+- LeapMotion + Oculus Riftのコンテンツをつくってみる
+- Sepheroを動かす
+- Droneを動かす
