@@ -44,12 +44,12 @@ Roadmap
 - 名刺にWebサイトのURL
 - 回路図と説明のたてをつくる
 
-## Webサイト／ツール類
-- Webサイトをつくる
+## Webサイト／ツール類　ToDO
+- Webサイトをつくる（leap-devjp.org）
 - MakerHubアカウントつくって投稿
 - Facebookページをつくる（FBグループと仕様用途を分ける）
 
-## ワークショップ資料・サンプル
+## ワークショップ資料・サンプル　ToDo
 - LeapMotionの概要
 - LeapJSとは
 - 事例
@@ -64,3 +64,4 @@ Roadmap
 - LeapMotion + Oculus Riftのコンテンツをつくってみる
 - Sepheroを動かす
 - Droneを動かす
+- Pepperくんとコミュニケーション
